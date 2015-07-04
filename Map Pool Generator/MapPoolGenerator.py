@@ -9,7 +9,7 @@ from MapPicker import MapPicker
 
 
 
-class MapGenerator:
+class MapPoolGenerator:
 
     def __init__(self):
         self.mappool = {}        
@@ -50,20 +50,14 @@ class MapGenerator:
         self.output.write("</table>\n")
         self.output.close()
 
+
     def run(self):
 
-        print("Running Randomizer...")
+        #print("Running Randomizer...")
         self.MapPicker.run_randomizer()
-        print("Randomizer Finished. Writing values to mappool.html...")
+        #print("Randomizer Finished. Writing values to mappool.html...")
         self.cout()
-        print("Writing Finished. Printing maps to console...")
+        #print("Writing Finished. Printing maps to console...")
         self.MapPicker.print_maps()
-        print("Done.")
-
-if __name__ == "__main__":
-
-    m = MapGenerator()
-
-    m.run()
-
+        #print("Done.")
     

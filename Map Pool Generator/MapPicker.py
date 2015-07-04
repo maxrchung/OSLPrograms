@@ -54,12 +54,12 @@ class MapPicker:
     def get_HR(self): return self.HRmaps
     def set_HR(self): self.HRmaps = self.random_search(self.HR)
     def get_TB(self): return self.TBmap
-    def set_TB(self): self.TBmap = self.maps[self.TB.pop(randrange(0, len(self.TB)))]
+    def set_TB(self): self.TBmap = self.maps[self.TB.pop(randrange(0, len(self.TB))) - 1]
 		
     def print_maps(self):
 
-        print("No Mod: \nMap 1: {}\nMap 2: {}\nMap 3: {}".format(self.NMmaps[0], self.NMmaps[1], self.NMmaps[2]))
-        print("Double Time:\nMap 1: {}\nMap 2: {}\nMap 3: {}".format(self.DTmaps[0], self.DTmaps[1], self.DTmaps[2]))
-        print("Hidden:\nMap 1: {}\nMap 2: {}\nMap 3: {}".format(self.HDmaps[0], self.HDmaps[1], self.HDmaps[2]))
-        print("Hard Rock:\nMap 1: {}\nMap 2: {}\nMap 3: {}".format(self.HRmaps[0], self.HRmaps[1], self.HRmaps[2]))
+        print("No Mod: \nMap 1: {}\nMap 2: {}\nMap 3: {}\n".format(self.NMmaps[0], self.NMmaps[1], self.NMmaps[2]))
+        print("Double Time:\nMap 1: {}\nMap 2: {}\nMap 3: {}\n".format(self.DTmaps[0], self.DTmaps[1], self.DTmaps[2]))
+        print("Hidden:\nMap 1: {}\nMap 2: {}\nMap 3: {}\n".format(self.HDmaps[0], self.HDmaps[1], self.HDmaps[2]))
+        print("Hard Rock:\nMap 1: {}\nMap 2: {}\nMap 3: {}\n".format(self.HRmaps[0], self.HRmaps[1], self.HRmaps[2]))
         print("And tiebreaker is: {}".format(self.TBmap))
