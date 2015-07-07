@@ -1,4 +1,5 @@
 from random import randrange
+from csvToMap import MapMaker
 
 #random generator
 
@@ -22,16 +23,9 @@ class MapPicker:
         self.HDmaps = []
         self.HRmaps = []
         self.TBmap = None
-        self.maps = []
-        self.set_maps()
 
-    def create_list(self):
-        #creates a list of maps
-        self.searchfile = open("List of Maps.txt", "r")
-        for line in self.searchfile:
-            self.maps.append(line.rstrip("\n"))
-        self.searchfile.close()
-	
+
+        
         
     def random_search(self, pool):
         # pops the 3 map #s from the pool
@@ -48,8 +42,7 @@ class MapPicker:
         self.set_HR()
         self.set_TB()
             
-    def get_maps(self): return self.maps
-    def set_maps(self): self.create_list()
+
     def get_DT(self): return self.DTmaps
     def set_DT(self): self.DTmaps = self.random_search(self.DT)
     def get_NM(self): return self.NMmaps

@@ -11,10 +11,10 @@ from MapPicker import MapPicker
 
 class MapPoolGenerator:
 
-    def __init__(self):
+    def __init__(self, week):
         self.mappool = {}        
         self.generate_pool()
-        self.MapPicker = MapPicker()
+        self.MapPicker = MapPicker(week)
         
 
 
