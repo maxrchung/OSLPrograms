@@ -1,4 +1,4 @@
-#Victor Stolle csvToMap.py
+    #Victor Stolle csvToMap.py
 
 from collections import defaultdict
 
@@ -13,6 +13,8 @@ class MapMaker:
         self.HDmaps = defaultdict(list)
         self.NMmaps = defaultdict(list)
         self.TBmaps = defaultdict(list)
+
+        self.generate_pool()
 
 
     def generate_pool(self):
@@ -44,7 +46,13 @@ class MapMaker:
 
 
 
+
 if __name__ == "__main__":
 
     m = MapMaker()
-    m.generate_pool()
+
+    print(len(m.getDTmaps().items()))
+
+    DT = [i for i in range(0, len(m.getDTmaps().items()))]
+
+    print(DT)
