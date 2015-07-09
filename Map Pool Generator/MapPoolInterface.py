@@ -3,6 +3,7 @@
 from Tkinter import *
 from MapToHTML import HTMLGenerator
 from PIL import ImageTk, Image
+from MapTocsv import CSVGenerator
 class MapPoolInterface:
 
 
@@ -16,6 +17,7 @@ class MapPoolInterface:
         self.counter = 0
         self.htmlgen = HTMLGenerator()
         self.allmaps = self.htmlgen.get_maps()
+        self.toCSV = CSVGenerator(self.htmlgen.get_maps(), 'swiss.csv', self.htmlgen.get_sizes())
 
         self.root = Tk()
         self.root.title("osu!UCI Summer League 2015")
@@ -41,7 +43,6 @@ class MapPoolInterface:
         self.exit_button.config(height = 5, width = 30)
 
 
-
         self.exit_button.pack(side = "bottom")
 
         self.panel.pack(side = "bottom", fill = "x", expand = 1)
@@ -54,11 +55,10 @@ class MapPoolInterface:
         sys.stdout = TextRedirector(self.text, "cout")
 
 
-
+    
     def test_run(self):
         self.text.delete('1.0', END)
         self.htmlgen.run()
-
 
 
     def run_func(self):
@@ -67,6 +67,7 @@ class MapPoolInterface:
         self.run_button.destroy()
         self.test_button.destroy()
         self.text.config(state = DISABLED)
+        self.toCSV.write()
 
     def byebye(self):
         self.root.destroy()

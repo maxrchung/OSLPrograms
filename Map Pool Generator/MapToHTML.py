@@ -48,7 +48,7 @@ class HTMLGenerator:
         #print("Done.")
 
     def get_maps(self): return self.MapPicker.get_maps()
-
+    def get_sizes(self): return self.MapPicker.get_sizes()
 
 
 if __name__ == "__main__":

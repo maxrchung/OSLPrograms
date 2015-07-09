@@ -1,7 +1,7 @@
     #Victor Stolle csvToMap.py
 
 from collections import defaultdict
-
+from MapTocsv import CSVGenerator
 
 class MapMaker:
 
@@ -13,15 +13,18 @@ class MapMaker:
         self.HDmaps = defaultdict(list)
         self.NMmaps = defaultdict(list)
         self.TBmaps = defaultdict(list)
+        self.raw_maps = []
 
         self.generate_pool()
-
+        self.backup = CSVGenerator(self.raw_maps, 'swiss - Backup.csv', [len(self.DTmaps.items()), len(self.HRmaps.items()), len(self.HDmaps.items()), len(self.NMmaps.items()), len(self.TBmaps.items())])
+        self.backup.write()
 
     def generate_pool(self):
         self.csv = open("swiss.csv", "r")
-        
+        next(self.csv)
         for line in self.csv:
             self.split = line.split(",")
+            self.raw_maps.append(self.split)
             self.html = ("<tr>\n<td>\n" + self.split[4] + '</td>\n<td>\n<a href="' + self.split[3] + '">' +
                          self.split[1] + "</a>\n</td>\n<td>\n" + self.split[0] + "</td>\n<td>" + self.split[2] +
                          "</td>\n<td>" + self.split[5] + "</td>\n<td>" + self.split[6] + "</td>\n</tr>\n")
@@ -43,16 +46,7 @@ class MapMaker:
     def getHDmaps(self): return self.HDmaps
     def getNMmaps(self): return self.NMmaps
     def getTBmaps(self): return self.TBmaps
+    def getRaws(self): return self.raw_maps
 
 
 
-
-if __name__ == "__main__":
-
-    m = MapMaker()
-
-    print(len(m.getDTmaps().items()))
-
-    DT = [i for i in range(0, len(m.getDTmaps().items()))]
-
-    print(DT)
