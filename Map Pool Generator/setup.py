@@ -1,3 +1,3 @@
 from cx_Freeze import setup, Executable
 
-setup( name = "" , version = "0.1" , description = "" , executables = [Executable(script = "MapPoolInterface.py")] , base="Win32GUI" )
+setup( name = "MapPoolGenerator" , version = "1.0" , description = "Map Pool Generator" , executables = [Executable(script = "MapPoolInterface.py")] , base = "Win32GUI" )
