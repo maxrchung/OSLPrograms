@@ -47,7 +47,7 @@ for a in s:
         link = "https://osu.ppy.sh/u/" + b.replace(" ", "%20")
         temp.append('<a href="{}">{}</a>'.format(link, b))
 '''<a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>'''
-f = open("temp.txt", 'r')
+f = open("input.html", 'r')
 txt = f.read()
 f.close()
 
@@ -61,6 +61,6 @@ for name, link in zip(special_iter(s),temp):
     assert name in txt
     txt = txt.replace(name,link)
 
-f = open("temp.html", 'w')
+f = open("output.html", 'w')
 f.write(txt)
 f.close()

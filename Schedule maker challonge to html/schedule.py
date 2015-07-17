@@ -13,6 +13,14 @@ for anchor in soup.find_all('a'):
         if 'match_identifier' in anchor['class']:
             matchLetters.append(anchor.get_text().strip())
 
+print matchLetters
+'''
+matchLetters.remove("BK")
+matchLetters.remove("BL")
+matchLetters.remove("BI")
+matchLetters.remove("BJ")
+'''
+
 players = []
 
 # Finds all the players
@@ -22,6 +30,9 @@ for div in soup.find_all('div'):
             players.append(div.span.get_text())
 
 matches = []
+
+print len(matchLetters)
+print len(players)
 
 # Makes a collection of (matchLetter, (player1, player2))
 for index in range(len(matchLetters)):
@@ -51,7 +62,7 @@ for index in range(len(randomMatches)):
         starttime = 8 * 60
     wl(output, "<tr>")
     wl(output, "<td>")
-    wl(output, "OSL" + str(index + 1))
+    wl(output, "OSL:" + str(index + 1))
     wl(output, "</td>")
     wl(output, "<td>")
     day = "Sat "
@@ -59,9 +70,9 @@ for index in range(len(randomMatches)):
         day = "Sun "
     
     if starttime % 60 == 0:
-        wl(output, day + str(int(starttime/60)) + ":00 PM")
+        wl(output, day + str(int(starttime/60)) + ":00PM")
     else:
-        wl(output, day + str(int(starttime/60)) + ":30 PM")
+        wl(output, day + str(int(starttime/60)) + ":30PM")
     wl(output, "</td>")
     wl(output, "<td>")
     wl(output, randomMatches[index][1][0])
