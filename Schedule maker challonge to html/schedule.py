@@ -62,7 +62,7 @@ for index in range(len(randomMatches)):
         starttime = 8 * 60
     wl(output, "<tr>")
     wl(output, "<td>")
-    wl(output, "OSL:" + str(index + 1))
+    wl(output, "OSL:" + randomMatches[index][0])
     wl(output, "</td>")
     wl(output, "<td>")
     day = "Sat "
@@ -75,10 +75,10 @@ for index in range(len(randomMatches)):
         wl(output, day + str(int(starttime/60)) + ":30PM")
     wl(output, "</td>")
     wl(output, "<td>")
-    wl(output, randomMatches[index][1][0])
+    wl(output, '<a href="https://osu.ppy.sh/u/' + (randomMatches[index][1][0]).replace(" ", "%20") + '">' + randomMatches[index][1][0] + '</a>')
     wl(output, "</td>")
     wl(output, "<td>")
-    wl(output, randomMatches[index][1][1])
+    wl(output, '<a href="https://osu.ppy.sh/u/' + (randomMatches[index][1][1]).replace(" ", "%20") + '">' + randomMatches[index][1][1] + '</a>')
     wl(output, "</td>")
 
     wl(output, "<td>")
@@ -91,7 +91,7 @@ for index in range(len(randomMatches)):
 
     wl(output, "<td>")
     if index % 4 == 0:
-        wl(output, '<a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>')
+        wl(output, '<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>')
     elif index % 4 == 1:
         wl(output, '<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>')
     elif index % 4 == 2:

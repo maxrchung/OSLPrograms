@@ -1,33 +1,29 @@
-Match # (Please keep formatting properly: Ex. OSL:5),Score (Ex. 3-1),Match History URL,Winner,No Shows,Referee ,Notes
-OSL:1 (Wynnwolf) vs (tyronetoblerone),2-1,https://osu.ppy.sh/mp/17419730,WynnWolf,,,
-OSL:2 (DeucesWiId) vs (leluffy),2-0,https://osu.ppy.sh/mp/17395929,DeucesWiId,,,
-OSL:3 (Shinyblade) vs (Rhylent),2-0,https://osu.ppy.sh/mp/17419893,Rhylent,,Brad,
-OSL:4 (Vapor) vs (YunoWhoItIs),0-0,https://osu.ppy.sh/mp/17420330,Vapor,YunoWhoItIs,Victor,
-OSL:5 (payau) vs (- Nakano Azusa-),0-2,https://osu.ppy.sh/mp/17420323,- Nakano Azusa-,,,
-OSL:6 (jackisgone) vs (plaatinum),0-0,https://osu.ppy.sh/mp/17420426,Plaatinum,jackisgone,,
-OSL:7 (Fridolin) vs (shivo),0-0,https://osu.ppy.sh/mp/17420621,,Fridolin and shivo,Brad,
-OSL:8 (KogureKun) vs (BBastia),0-0,https://osu.ppy.sh/mp/17420465,Kogure-Kun,BBastia,Victor,
-OSL:9 (Natalia) vs (Kyoko),0-0,https://osu.ppy.sh/mp/17420825,Natalia,Kyoko,,
-OSL:10 (bananamilk) vs (Bass),0-0,https://osu.ppy.sh/mp/17420871,bananamilk,Bass,,
-OSL:11 (Kazuki) vs (Alexefer),,,,,,
-OSL:12 (Ryan Gooseling) vs (Keanu),2-1,https://osu.ppy.sh/mp/17420877,Ryan Gooseling,Keanu,Victor,
-OSL:13 (IOException) vs (Amagi),0-2,https://osu.ppy.sh/mp/17421067,Amagi,,,
-OSL:14 (Kocari) vs (kennyyam),1-2,http://osu.ppy.sh/mp/17443964,kennyyam,,Aaron,
-OSL:15 (PainSinger) vs (Andrew),0-2,https://osu.ppy.sh/mp/17421324,Andrew,,Brad,
-OSL:16 (Ecliptus) vs. (Demitoo),0-0,https://osu.ppy.sh/mp/17421082,Ecliptus,Demitoo,Max,
-OSL:17 (Poofie) vs (Slvin),0-0,https://osu.ppy.sh/mp/17442740,,Poofie,Max,
-OSL:18 (iSlapWhale) vs (jaskier2),2-1,http://osu.ppy.sh/mp/17442753,iSlapWhale,,Justin,Last map was replayed because iSlapWhales failed in the middle but the match ended earlie due to it being team versus
-OSL:19 (Aaerok) vs (BradXYZ),2-1,https://osu.ppy.sh/mp/17442771 https://osu.ppy.sh/mp/17443367,Aaerok,,Brad,There are two map histories because they forgot that the tiebreaker was a special map
-OSL:20 (Saltstick) vs (Endyron),0-0,https://osu.ppy.sh/mp/17442767,Saltstick,Endyron,Victor,
-OSL:21 (Xexxar) vs (Karuta-),1-2,https://osu.ppy.sh/mp/17443152,Karuta-,,Max,
-OSL:22 (YoshiIsAwsum) vs (ScrYpt),0-0,http://osu.ppy.sh/mp/17443386,ScrYpt,YoshiIsAwsum,Justin,
-OSL:23 (Aoiyuuki-) vs (kymotsujason),2-0,https://osu.ppy.sh/mp/17443256,Aoiyuuki-,,Brad,
-OSL:24 (Cl8n) vs (Raddy),0-0,https://osu.ppy.sh/mp/17443233,Cl8n,Raddy,Victor,
-OSL:25 (Kuki) vs (Zafkiel),2-0,https://osu.ppy.sh/mp/17443624,Kuki,,Max,
-OSL:26 (Ignite) vs (captin1),2-0,http://osu.ppy.sh/mp/17443570,Ignite,,Justin,
-OSL:27 (KevEZ) vs (Dunois),0-0,https://osu.ppy.sh/mp/17443663,,KevEz and Dunois,Brad,Dunois had to go out for dinner; is asking to reschedule match
-OSL:28 ([Neetwork]) vs (Keepu),2-1,https://osu.ppy.sh/mp/17443604,[Neetwork],,Victor,
-OSL:29 (Zukarido) vs (Xbox),0-0,https://osu.ppy.sh/mp/17443840,Xbox,Zukarido,Max,
-OSL:30 (TheOnlyLeon) vs (Ultraplex1337),0-0,http://osu.ppy.sh/mp/17443892,TheOnlyLeon,Ultraplex1337,Justin,
-OSL:31 (Ex6TenZ) vs (Kaifin),1-2,https://osu.ppy.sh/mp/17444033,Kaifin,,Brad,
-OSL:32 (funnytrees) vs (Kutora),2-1,https://osu.ppy.sh/mp/17443792,funnytrees,,Victor,
+Match # (Please keep formatting properly: Ex. OSL:5),Score (Ex. 3-1),Match History URL,Winner,No Shows,No-show email,Referee ,Notes
+OSL:1 (Ignite) vs. (Andrew),0-0,N/A,Ignite,Andrew,,Jim,
+OSL:5 (tyrontoblerone) vs. (IOException),0-2,https://osu.ppy.sh/mp/17584063,IOException,,,Jim,
+OSL:7 (Aoiyuuki-) vs. (kennyyam),0-2,https://osu.ppy.sh/mp/17583635,kennyyam,,,mauler68,
+OSL:12 ([Neetwork]) vs. (plaatinum),0-0,https://osu.ppy.sh/mp/17606491,[Neetwork],plaatinum,,lolipro/mauler68,2 timer no show
+OSL:28 (Natalia) vs. (saltstick),2-1,https://osu.ppy.sh/mp/17607282,Natalia,,,Shintomo,Pushed to 9:00PM Sunday
+OSL:10 (Ecliptus) vs. (Xbox),"2-1
+",https://osu.ppy.sh/mp/17598262,Ecliptus,,,Jim,"Rescheduled to Noon Sunday, approved by both players"
+OSL:14 (funnytrees) vs. (Karuta-),2-0,https://osu.ppy.sh/mp/17584494,funnytrees,,,Shintomo,
+OSL:15 (BradXYZ) vs. (PainSinger),0-2,https://osu.ppy.sh/mp/17584566,PainSinger,,,mauler68,
+OSL:16 (Ryan Gooseling) vs. (KogureKun),0-0,N/A,Ryan Gooseling,KogureKun,,lalipo,
+OSL:2 (kutora) vs. (Kazuki),2-0,https://osu.ppy.sh/mp/17606374,"kutora
+",,,Shintomo,
+OSL:17 (Kuki) vs. (ScrYpt),0-2,https://osu.ppy.sh/mp/17608103,ScrYpt,,,Jim,Pushed back to 10 PM Sunday
+OSL:19 (Cl8n) vs. (Kaifin),2-1,https://osu.ppy.sh/mp/17606385,Cl8n,,,lalipo,
+OSL:8 (Aaerok) vs. (bananamilk),2-1,https://osu.ppy.sh/mp/17606732,Aaerok,,,Jim,scott sux
+OSL:20 (jaskier2) vs. (payau),0-0,https://osu.ppy.sh/mp/17606740,,jaskier2,,lalipo,
+OSL:21 (WynnWolf) vs. (- Nakano Azusa-),2-0,https://osu.ppy.sh/mp/17606743,WynnWolf,,,Shintomo,
+OSL:29 (Zafkiel) vs. (Zukarido),2-1,https://osu.ppy.sh/mp/17607242,Zafkiel,,,lalipo,
+OSL:11 (leluffy) vs. (Kocari),0-2,https://osu.ppy.sh/mp/17607254,Kocari,,,mauler68,
+OSL:24 (TheOnlyLeon) vs. (iSlapWhale),1-2,https://osu.ppy.sh/mp/17607125,iSlapWhale,,,Jim,
+OSL:25 (DeucesWild) vs. (Amagi),2-1,https://osu.ppy.sh/mp/17607675,DeucesWild,,,shintomo,
+OSL:26 (Keepu) vs. (Bass),0-0,https://osu.ppy.sh/mp/17607676,Keepu,Bass,,mauler68,
+OSL:27 (Vapor) vs. (Alexefer),0-0,https://osu.ppy.sh/mp/17607361,,Vapor,,lalipo,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"
+",,,,,,,
