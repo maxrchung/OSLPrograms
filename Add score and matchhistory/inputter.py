@@ -7,8 +7,8 @@ matches = {}
 
 for line in csv:
     parts = line.split(',')
-    matchNumber = parts[0].split(' ')
-    matches[matchNumber[0]] = parts[1:]
+    matchNumber = parts[1].split(' ')
+    matches[matchNumber[0]] = parts[2:]
     
 table = open("table.html", "r")
 soup = BeautifulSoup(table)
