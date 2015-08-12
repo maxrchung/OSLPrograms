@@ -91,14 +91,15 @@ for index in range(len(randomMatches)):
 
     wl(output, "<td>")
     if index % 4 == 0:
-        wl(output, '<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>')
+        wl(output, '<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>')
     elif index % 4 == 1:
         wl(output, '<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>')
     elif index % 4 == 2:
         wl(output, '<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>')
     elif index % 4 == 3:
-        wl(output, '<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>')
+        wl(output, '<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>')
     wl(output, "</td>")
     wl(output, "</tr>")
+    wl(output, "")
 
 wl(output, "</table>")

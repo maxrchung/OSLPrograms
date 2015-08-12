@@ -1,48 +1,48 @@
-<div class="round4">
+<div class="round6">
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646076 pid28646078" id="match_qtip_42328055">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646100 pid28646076" id="match_qtip_42328119">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-CS
+FE
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328055/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328119/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328055/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328119/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328055" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328119" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328055/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328119/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328055/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328119/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328055_" style="padding:0" original-title="">
+<td class="core" id="match_qtip_42328119_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">20</div>
+<div class="top_seed">44</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328055/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328119/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646076 participant-present over" data-participant_id="28646076" data-round="4"><span style="" title="DeucesWiId">DeucesWiId</span></div>
+<div class="inner_content no_user p28646100 participant-present" data-participant_id="28646100" data-round="6"><span style="" title="Keepu">Keepu</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">22</div>
+<div class="bottom_seed">20</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328055/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328119/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646078 participant-present" data-participant_id="28646078" data-round="4"><span style="" title="Xexxar">Xexxar</span></div>
+<div class="inner_content no_user p28646076 participant-present" data-participant_id="28646076" data-round="6"><span style="" title="DeucesWiId">DeucesWiId</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -56,7 +56,7 @@ CS
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328055_content">
+<div class="hide" id="match_qtip_42328119_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -68,797 +68,117 @@ CS
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646066 pid28646079" id="match_qtip_42328056">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646087 pid28646072" id="match_qtip_42328120">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-CT
+FF
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328056/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328120/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328056/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328120/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328056" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328120" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328056/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328120/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328056/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328120/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328056_" style="padding:0">
+<td class="core" id="match_qtip_42328120_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">31</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328120/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646087 participant-present" data-participant_id="28646087" data-round="6"><span style="" title="saltstick">saltstick</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">16</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328120/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646072 participant-present" data-participant_id="28646072" data-round="6"><span style="" title="IOException">IOException</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328120_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646066 pid28646094" id="match_qtip_42328121">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FG
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328121/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328121/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328121" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328121/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328121/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328121_" style="padding:0" original-title="">
 <div class="match_top_half">
 <div class="top_seed">10</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328056/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328121/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646066 participant-present" data-participant_id="28646066" data-round="4"><span style="" title="Kocari">Kocari</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">23</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328056/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646079 participant-present" data-participant_id="28646079" data-round="4"><span style="" title="Kuki">Kuki</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328056_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646058 pid28646110" id="match_qtip_42328057">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CU
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328057/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328057/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328057" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328057/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328057/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328057_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">2</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328057/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646058 participant-present" data-participant_id="28646058" data-round="4"><span style="" title="PainSinger">PainSinger</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">53</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328057/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646110 participant-present" data-participant_id="28646110" data-round="4"><span style="" title="kutora">kutora</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328057_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646115 pid28646106" id="match_qtip_42328058">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CV
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328058/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328058/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328058" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328058/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328058/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328058_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">58</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328058/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646115 participant-present" data-participant_id="28646115" data-round="4"><span style="" title="Rhylent">Rhylent</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">49</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328058/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646106 participant-present" data-participant_id="28646106" data-round="4"><span style="" title="kymotsujason">kymotsujason</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328058_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646113 pid28646101" id="match_qtip_42328059">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CW
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328059/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328059/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328059" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328059/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328059/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328059_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">56</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328059/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646113 participant-present" data-participant_id="28646113" data-round="4"><span style="" title="ScrYpt">ScrYpt</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">45</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328059/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646101 participant-present" data-participant_id="28646101" data-round="4"><span style="" title="Alexefer">Alexefer</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328059_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646111 pid28646100" id="match_qtip_42328060">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CX
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328060/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328060/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328060" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328060/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328060/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328060_" style="padding:0" original-title="">
-<div class="match_top_half">
-<div class="top_seed">54</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328060/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646111 participant-present" data-participant_id="28646111" data-round="4"><span style="" title="Karuta-">Karuta-</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">44</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328060/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646100 participant-present" data-participant_id="28646100" data-round="4"><span style="" title="Keepu">Keepu</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328060_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646090 pid28646097" id="match_qtip_42328061">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CY
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328061/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328061/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328061" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328061/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328061/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328061_" style="padding:0" original-title="">
-<div class="match_top_half">
-<div class="top_seed">34</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328061/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646090 participant-present" data-participant_id="28646090" data-round="4"><span style="" title="Andrew">Andrew</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">41</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328061/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646097 participant-present" data-participant_id="28646097" data-round="4"><span style="" title="Kaifin">Kaifin</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328061_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646083 pid28646091" id="match_qtip_42328062">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-CZ
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328062/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328062/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328062" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328062/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328062/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328062_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">27</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328062/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646083 participant-present" data-participant_id="28646083" data-round="4"><span style="" title="WynnWolf">WynnWolf</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">35</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328062/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646091 participant-present" data-participant_id="28646091" data-round="4"><span style="" title="Keanu">Keanu</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328062_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646068 pid28646086" id="match_qtip_42328063">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DA
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328063/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328063/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328063" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328063/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328063/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328063_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">12</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328063/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646068 participant-present" data-participant_id="28646068" data-round="4"><span style="" title="[Neetwork]">[Neetwork]</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">30</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328063/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646086 participant-present" data-participant_id="28646086" data-round="4"><span style="" title="iSlapWhale">iSlapWhale</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328063_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646077 pid28646082" id="match_qtip_42328064">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DB
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328064/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328064/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328064" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328064/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328064/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328064_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">21</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328064/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646077 participant-present" data-participant_id="28646077" data-round="4"><span style="" title="funnytrees">funnytrees</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">26</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328064/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646082 participant-present" data-participant_id="28646082" data-round="4"><span style="" title="Shinyblade">Shinyblade</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328064_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646065 pid28646114" id="match_qtip_42328065">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DC
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328065/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328065/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328065" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328065/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328065/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328065_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">9</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328065/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646065 participant-present" data-participant_id="28646065" data-round="4"><span style="" title="Ex6TenZ">Ex6TenZ</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">57</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328065/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646114 participant-present" data-participant_id="28646114" data-round="4"><span style="" title="- Nakano Azusa-">- Nakano Azusa-</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328065_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646075 pid28646073" id="match_qtip_42328066">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DD
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328066/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328066/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328066" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328066/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328066/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328066_" style="padding:0" original-title="">
-<div class="match_top_half">
-<div class="top_seed">19</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328066/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646075 participant-present" data-participant_id="28646075" data-round="4"><span style="" title="Ecliptus">Ecliptus</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">17</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328066/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646073 participant-present" data-participant_id="28646073" data-round="4"><span style="" title="Aoiyuuki-">Aoiyuuki-</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328066_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646099 pid28646094" id="match_qtip_42328067">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DE
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328067/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328067/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328067" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328067/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328067/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328067_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">43</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328067/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646099 participant-present" data-participant_id="28646099" data-round="4"><span style="" title="BradXYZ">BradXYZ</span></div>
+<div class="inner_content no_user p28646066 participant-present" data-participant_id="28646066" data-round="6"><span style="" title="Kocari">Kocari</span></div>
 </div>
 <div class="match_bottom_half">
 <div class="bottom_seed">38</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328067/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328121/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646094 participant-present" data-participant_id="28646094" data-round="4"><span style="" title="captin1">captin1</span></div>
+<div class="inner_content no_user p28646094 participant-present" data-participant_id="28646094" data-round="6"><span style="" title="captin1">captin1</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -872,7 +192,7 @@ DE
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328067_content">
+<div class="hide" id="match_qtip_42328121_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -884,49 +204,49 @@ DE
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646104 pid28646069" id="match_qtip_42328068">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646111 pid28646065" id="match_qtip_42328122">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DF
+FH
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328068/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328122/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328068/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328122/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328068" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328122" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328068/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328122/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328068/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328122/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328068_" style="padding:0">
+<td class="core" id="match_qtip_42328122_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">47</div>
+<div class="top_seed">54</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328068/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328122/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646104 participant-present" data-participant_id="28646104" data-round="4"><span style="" title="Xbox">Xbox</span></div>
+<div class="inner_content no_user p28646111 participant-present" data-participant_id="28646111" data-round="6"><span style="" title="Karuta-">Karuta-</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">13</div>
+<div class="bottom_seed">9</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328068/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328122/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646069 participant-present" data-participant_id="28646069" data-round="4"><span style="" title="Kazuki">Kazuki</span></div>
+<div class="inner_content no_user p28646065 participant-present" data-participant_id="28646065" data-round="6"><span style="" title="Ex6TenZ">Ex6TenZ</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -940,7 +260,7 @@ DF
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328068_content">
+<div class="hide" id="match_qtip_42328122_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -952,49 +272,49 @@ DF
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646105 pid28646081" id="match_qtip_42328069">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646068 pid28646110" id="match_qtip_42328123">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DG
+FI
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328069/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328123/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328069/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328123/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328069" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328123" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328069/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328123/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328069/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328123/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328069_" style="padding:0">
+<td class="core" id="match_qtip_42328123_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">48</div>
+<div class="top_seed">12</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328069/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328123/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646105 participant-present" data-participant_id="28646105" data-round="4"><span style="" title="Amagi">Amagi</span></div>
+<div class="inner_content no_user p28646068 participant-present" data-participant_id="28646068" data-round="6"><span style="" title="[Neetwork]">[Neetwork]</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">25</div>
+<div class="bottom_seed">53</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328069/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328123/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646081 participant-present" data-participant_id="28646081" data-round="4"><span style="" title="payau">payau</span></div>
+<div class="inner_content no_user p28646110 participant-present" data-participant_id="28646110" data-round="6"><span style="" title="kutora">kutora</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1008,7 +328,7 @@ DG
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328069_content">
+<div class="hide" id="match_qtip_42328123_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1020,49 +340,49 @@ DG
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646112 pid28646085" id="match_qtip_42328070">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646062 pid28646104" id="match_qtip_42328124">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DH
+FJ
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328070/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328124/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328070/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328124/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328070" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328124" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328070/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328124/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328070/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328124/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328070_" style="padding:0">
+<td class="core" id="match_qtip_42328124_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">55</div>
+<div class="top_seed">6</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328070/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328124/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646112 participant-present" data-participant_id="28646112" data-round="4"><span style="" title="Zafkiel">Zafkiel</span></div>
+<div class="inner_content no_user p28646062 participant-present" data-participant_id="28646062" data-round="6"><span style="" title="Ignite">Ignite</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">29</div>
+<div class="bottom_seed">47</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328070/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328124/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646085 participant-present" data-participant_id="28646085" data-round="4"><span style="" title="TheOnlyLeon">TheOnlyLeon</span></div>
+<div class="inner_content no_user p28646104 participant-present" data-participant_id="28646104" data-round="6"><span style="" title="Xbox">Xbox</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1076,7 +396,7 @@ DH
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328070_content">
+<div class="hide" id="match_qtip_42328124_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1088,49 +408,185 @@ DH
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646071 pid28646087" id="match_qtip_42328071">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646073 pid28646086" id="match_qtip_42328125">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DI
+FK
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328071/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328125/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328071/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328125/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328071" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328125" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328071/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328125/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328071/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328125/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328071_" style="padding:0">
+<td class="core" id="match_qtip_42328125_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">17</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328125/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646073 participant-present" data-participant_id="28646073" data-round="6"><span style="" title="Aoiyuuki-">Aoiyuuki-</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">30</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328125/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646086 participant-present" data-participant_id="28646086" data-round="6"><span style="" title="iSlapWhale">iSlapWhale</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328125_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646114 pid28646105" id="match_qtip_42328126">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FL
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328126/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328126/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328126" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328126/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328126/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328126_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">57</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328126/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646114 participant-present" data-participant_id="28646114" data-round="6"><span style="" title="- Nakano Azusa-">- Nakano Azusa-</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">48</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328126/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646105 participant-present" data-participant_id="28646105" data-round="6"><span style="" title="Comett">Comett</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328126_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646071 pid28646097" id="match_qtip_42328127">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FM
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328127/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328127/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328127" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328127/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328127/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328127_" style="padding:0" original-title="">
 <div class="match_top_half">
 <div class="top_seed">15</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328071/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328127/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646071 participant-present" data-participant_id="28646071" data-round="4"><span style="" title="Zukarido">Zukarido</span></div>
+<div class="inner_content no_user p28646071 participant-present" data-participant_id="28646071" data-round="6"><span style="" title="Zukarido">Zukarido</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">31</div>
+<div class="bottom_seed">41</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328071/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328127/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646087 participant-present" data-participant_id="28646087" data-round="4"><span style="" title="saltstick">saltstick</span></div>
+<div class="inner_content no_user p28646097 participant-present" data-participant_id="28646097" data-round="6"><span style="" title="Kaifin">Kaifin</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1144,7 +600,7 @@ DI
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328071_content">
+<div class="hide" id="match_qtip_42328127_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1156,49 +612,49 @@ DI
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646072 pid28646088" id="match_qtip_42328072">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646093 pid28646082" id="match_qtip_42328128">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DJ
+FN
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328072/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328128/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328072/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328128/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328072" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328128" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328072/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328128/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328072/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328128/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328072_" style="padding:0">
+<td class="core" id="match_qtip_42328128_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">16</div>
+<div class="top_seed">37</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328072/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328128/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646072 participant-present" data-participant_id="28646072" data-round="4"><span style="" title="IOException">IOException</span></div>
+<div class="inner_content no_user p28646093 participant-present" data-participant_id="28646093" data-round="6"><span style="" title="bananamilk">bananamilk</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">32</div>
+<div class="bottom_seed">26</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328072/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328128/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646088 participant-present" data-participant_id="28646088" data-round="4"><span style="" title="KogureKun">KogureKun</span></div>
+<div class="inner_content no_user p28646082 participant-present" data-participant_id="28646082" data-round="6"><span style="" title="Shinyblade">Shinyblade</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1212,7 +668,7 @@ DJ
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328072_content">
+<div class="hide" id="match_qtip_42328128_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1224,49 +680,49 @@ DJ
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646095 pid28646093" id="match_qtip_42328073">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646069 pid28646083" id="match_qtip_42328129">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DK
+FO
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328073/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328129/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328073/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328129/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328073" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328129" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328073/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328129/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328073/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328129/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328073_" style="padding:0">
+<td class="core" id="match_qtip_42328129_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">39</div>
+<div class="top_seed">13</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328073/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328129/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646095 participant-present" data-participant_id="28646095" data-round="4"><span style="" title="Dunois">Dunois</span></div>
+<div class="inner_content no_user p28646069 participant-present" data-participant_id="28646069" data-round="6"><span style="" title="Kazuki">Kazuki</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">37</div>
+<div class="bottom_seed">27</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328073/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328129/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646093 participant-present" data-participant_id="28646093" data-round="4"><span style="" title="bananamilk">bananamilk</span></div>
+<div class="inner_content no_user p28646083 participant-present" data-participant_id="28646083" data-round="6"><span style="" title="WynnWolf">WynnWolf</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1280,7 +736,7 @@ DK
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328073_content">
+<div class="hide" id="match_qtip_42328129_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1292,49 +748,49 @@ DK
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646119 pid28646109" id="match_qtip_42328074">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646081 pid28646099" id="match_qtip_42328130">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DL
+FP
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328074/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328130/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328074/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328130/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328074" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328130" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328074/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328130/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328074/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328130/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328074_" style="padding:0">
+<td class="core" id="match_qtip_42328130_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">62</div>
+<div class="top_seed">25</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328074/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328130/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646119 participant-present" data-participant_id="28646119" data-round="4"><span style="" title="jaskier2">jaskier2</span></div>
+<div class="inner_content no_user p28646081 participant-present" data-participant_id="28646081" data-round="6"><span style="" title="payau">payau</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">52</div>
+<div class="bottom_seed">43</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328074/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328130/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646109 participant-present" data-participant_id="28646109" data-round="4"><span style="" title="leluffy">leluffy</span></div>
+<div class="inner_content no_user p28646099 participant-present" data-participant_id="28646099" data-round="6"><span style="" title="BradXYZ">BradXYZ</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1348,7 +804,7 @@ DL
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328074_content">
+<div class="hide" id="match_qtip_42328130_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1360,49 +816,117 @@ DL
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646121 pid28646116" id="match_qtip_42328075">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646112 pid28646101" id="match_qtip_42328131">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DM
+FQ
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328075/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328131/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328075/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328131/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328075" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328131" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328075/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328131/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328075/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328131/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328075_" style="padding:0" original-title="">
+<td class="core" id="match_qtip_42328131_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">64</div>
+<div class="top_seed">55</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328075/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328131/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646121 participant-present" data-participant_id="28646121" data-round="4"><span style="" title="Bastia">Bastia</span></div>
+<div class="inner_content no_user p28646112 participant-present" data-participant_id="28646112" data-round="6"><span style="" title="Zafkiel">Zafkiel</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">45</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328131/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646101 participant-present" data-participant_id="28646101" data-round="6"><span style="" title="Alexefer">Alexefer</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328131_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646088 pid28646116" id="match_qtip_42328132">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FR
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328132/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328132/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328132" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328132/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328132/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328132_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">32</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328132/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646088 participant-present" data-participant_id="28646088" data-round="6"><span style="" title="KogureKun">KogureKun</span></div>
 </div>
 <div class="match_bottom_half">
 <div class="bottom_seed">59</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328075/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328132/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646116 participant-present" data-participant_id="28646116" data-round="4"><span style="" title="tyronetoblerone">tyronetoblerone</span></div>
+<div class="inner_content no_user p28646116 participant-present" data-participant_id="28646116" data-round="6"><span style="" title="tyronetoblerone">tyronetoblerone</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1416,7 +940,7 @@ DM
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328075_content">
+<div class="hide" id="match_qtip_42328132_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1428,49 +952,185 @@ DM
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646070 pid28646067" id="match_qtip_42328076">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646095 pid28646109" id="match_qtip_42328133">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DN
+FS
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328076/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328133/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328076/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328133/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328076" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328133" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328076/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328133/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328076/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328133/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328076_" style="padding:0">
+<td class="core" id="match_qtip_42328133_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">39</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328133/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646095 participant-present" data-participant_id="28646095" data-round="6"><span style="" title="Dunois">Dunois</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">52</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328133/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646109 participant-present" data-participant_id="28646109" data-round="6"><span style="" title="leluffy">leluffy</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328133_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646067 pid28646058" id="match_qtip_42328134">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FT
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328134/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328134/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328134" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328134/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328134/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328134_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">11</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328134/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646067 participant-present" data-participant_id="28646067" data-round="6"><span style="" title="Aaerok">Aaerok</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">2</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328134/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646058 participant-present" data-participant_id="28646058" data-round="6"><span style="" title="PainSinger">PainSinger</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328134_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646070 pid28646115" id="match_qtip_42328135">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FU
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328135/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328135/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328135" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328135/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328135/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328135_" style="padding:0" original-title="">
 <div class="match_top_half">
 <div class="top_seed">14</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328076/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328135/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646070 participant-present" data-participant_id="28646070" data-round="4"><span style="" title="Cl8n">Cl8n</span></div>
+<div class="inner_content no_user p28646070 participant-present" data-participant_id="28646070" data-round="6"><span style="" title="Cl8n">Cl8n</span></div>
 </div>
 <div class="match_bottom_half">
-<div class="bottom_seed">11</div>
+<div class="bottom_seed">58</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328076/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328135/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646067 participant-present" data-participant_id="28646067" data-round="4"><span style="" title="Aaerok">Aaerok</span></div>
+<div class="inner_content no_user p28646115 participant-present" data-participant_id="28646115" data-round="6"><span style="" title="Rhylent">Rhylent</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1484,7 +1144,7 @@ DN
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328076_content">
+<div class="hide" id="match_qtip_42328135_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
@@ -1496,117 +1156,253 @@ DN
 
 </div>
 <div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646062 pid28646057" id="match_qtip_42328077">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646098 pid28646113" id="match_qtip_42328136">
 <tbody><tr>
 <td style="padding:0; vertical-align:middle">
 <div class="btn-group">
 <a class="btn btn-link match_identifier dropdown-toggle">
-DO
+FV
 <span class="caret"></span>
 </a>
 <ul class="dropdown-menu enabled">
 <li class="hide">
-<a data-href="/matches/42328077/edit" data-toggle="modal" href="#">Edit</a>
+<a data-href="/matches/42328136/edit" data-toggle="modal" href="#">Edit</a>
 </li>
 <li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328077/reopen" rel="nofollow">Reopen</a>
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328136/reopen" rel="nofollow">Reopen</a>
 </li>
 <li class="hide divider"></li>
 <li>
-<a data-href="/matches/42328077" data-toggle="modal" href="#">Match Details</a>
+<a data-href="/matches/42328136" data-toggle="modal" href="#">Match Details</a>
 </li>
 <li class="divider underway-divider"></li>
 <li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328077/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328136/mark_as_underway" rel="nofollow">Mark as In Progress</a>
 </li>
 <li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328077/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+<a data-method="put" data-remote="true" href="/matches/42328136/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
 </li>
 </ul>
 </div>
 </td>
-<td class="core" id="match_qtip_42328077_" style="padding:0">
+<td class="core" id="match_qtip_42328136_" style="padding:0" original-title="">
 <div class="match_top_half">
-<div class="top_seed">6</div>
+<div class="top_seed">42</div>
 <div class="top_score top_dark">
-<a class="" data-href="/matches/42328077/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328136/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646062 participant-present" data-participant_id="28646062" data-round="4"><span style="" title="Ignite">Ignite</span></div>
+<div class="inner_content no_user p28646098 participant-present" data-participant_id="28646098" data-round="6"><span style="" title="kennyyam">kennyyam</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">56</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328136/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646113 participant-present" data-participant_id="28646113" data-round="6"><span style="" title="ScrYpt">ScrYpt</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328136_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646090 pid28646091" id="match_qtip_42328137">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FW
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328137/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328137/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328137" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328137/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328137/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328137_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">34</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328137/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646090 participant-present" data-participant_id="28646090" data-round="6"><span style="" title="Andrew">Andrew</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">35</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328137/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646091 participant-present" data-participant_id="28646091" data-round="6"><span style="" title="Keanu">Keanu</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328137_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646075 pid28646077" id="match_qtip_42328138">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FX
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328138/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328138/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328138" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328138/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328138/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328138_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">19</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328138/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646075 participant-present" data-participant_id="28646075" data-round="6"><span style="" title="Ecliptus">Ecliptus</span></div>
+</div>
+<div class="match_bottom_half">
+<div class="bottom_seed">21</div>
+<div class="bottom_score bottom_dark">
+<a class="" data-href="/matches/42328138/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646077 participant-present" data-participant_id="28646077" data-round="6"><span style="" title="funnytrees">funnytrees</span></div>
+</div>
+<div class="shadow"></div>
+</td>
+<td style="padding:0;">
+<div class="match-location-container">
+<div class="hide match-location" title="">
+
+</div>
+</div>
+<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<div class="hide" id="match_qtip_42328138_content">
+<table class="qtip_score">
+<tbody><tr>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+<div class="pull-left">
+<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646059 pid28646057" id="match_qtip_42328139">
+<tbody><tr>
+<td style="padding:0; vertical-align:middle">
+<div class="btn-group">
+<a class="btn btn-link match_identifier dropdown-toggle">
+FY
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu enabled">
+<li class="hide">
+<a data-href="/matches/42328139/edit" data-toggle="modal" href="#">Edit</a>
+</li>
+<li class="hide">
+<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328139/reopen" rel="nofollow">Reopen</a>
+</li>
+<li class="hide divider"></li>
+<li>
+<a data-href="/matches/42328139" data-toggle="modal" href="#">Match Details</a>
+</li>
+<li class="divider underway-divider"></li>
+<li class="mark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328139/mark_as_underway" rel="nofollow">Mark as In Progress</a>
+</li>
+<li class="unmark-underway">
+<a data-method="put" data-remote="true" href="/matches/42328139/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="core" id="match_qtip_42328139_" style="padding:0" original-title="">
+<div class="match_top_half">
+<div class="top_seed">3</div>
+<div class="top_score top_dark">
+<a class="" data-href="/matches/42328139/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+</div>
+<div class="inner_content no_user p28646059 participant-present" data-participant_id="28646059" data-round="6"><span style="" title="Ryan Gooseling">Ryan Gooseling</span></div>
 </div>
 <div class="match_bottom_half">
 <div class="bottom_seed">1</div>
 <div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328077/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
+<a class="" data-href="/matches/42328139/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
 </div>
-<div class="inner_content no_user p28646057 participant-present" data-participant_id="28646057" data-round="4"><span style="" title="Natalia">Natalia</span></div>
-</div>
-<div class="shadow"></div>
-</td>
-<td style="padding:0;">
-<div class="match-location-container">
-<div class="hide match-location" title="">
-
-</div>
-</div>
-<div class="bracket_lines " style="float:none;"><table class="bracket_lines_table" style="border-collapse:collapse;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table></div>
-</td>
-</tr>
-</tbody></table>
-<div class="hide" id="match_qtip_42328077_content">
-<table class="qtip_score">
-<tbody><tr>
-</tr>
-<tr>
-</tr>
-</tbody></table>
-
-</div>
-
-</div>
-<div class="pull-left">
-<table border="0" cellpadding="0" cellspacing="0" class="match_table match_qtip match-tipsy admin_reportable participant_reportable open-not-underway pid28646059 pid28646098" id="match_qtip_42328078">
-<tbody><tr>
-<td style="padding:0; vertical-align:middle">
-<div class="btn-group">
-<a class="btn btn-link match_identifier dropdown-toggle">
-DP
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu enabled">
-<li class="hide">
-<a data-href="/matches/42328078/edit" data-toggle="modal" href="#">Edit</a>
-</li>
-<li class="hide">
-<a data-confirm="Are you sure you want to reopen this match?" data-method="put" data-remote="true" href="/matches/42328078/reopen" rel="nofollow">Reopen</a>
-</li>
-<li class="hide divider"></li>
-<li>
-<a data-href="/matches/42328078" data-toggle="modal" href="#">Match Details</a>
-</li>
-<li class="divider underway-divider"></li>
-<li class="mark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328078/mark_as_underway" rel="nofollow">Mark as In Progress</a>
-</li>
-<li class="unmark-underway">
-<a data-method="put" data-remote="true" href="/matches/42328078/unmark_as_underway" rel="nofollow">Unmark as In Progress</a>
-</li>
-</ul>
-</div>
-</td>
-<td class="core" id="match_qtip_42328078_" style="padding:0">
-<div class="match_top_half">
-<div class="top_seed">3</div>
-<div class="top_score top_dark">
-<a class="" data-href="/matches/42328078/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646059 participant-present" data-participant_id="28646059" data-round="4"><span style="" title="Ryan Gooseling">Ryan Gooseling</span></div>
-</div>
-<div class="match_bottom_half">
-<div class="bottom_seed">42</div>
-<div class="bottom_score bottom_dark">
-<a class="" data-href="/matches/42328078/edit" data-toggle="modal" href="#">&nbsp;?&nbsp;</a>
-</div>
-<div class="inner_content no_user p28646098 participant-present" data-participant_id="28646098" data-round="4"><span style="" title="kennyyam">kennyyam</span></div>
+<div class="inner_content no_user p28646057 participant-present" data-participant_id="28646057" data-round="6"><span style="" title="Natalia">Natalia</span></div>
 </div>
 <div class="shadow"></div>
 </td>
@@ -1620,7 +1416,7 @@ DP
 </td>
 </tr>
 </tbody></table>
-<div class="hide" id="match_qtip_42328078_content">
+<div class="hide" id="match_qtip_42328139_content">
 <table class="qtip_score">
 <tbody><tr>
 </tr>
