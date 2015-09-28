@@ -5,7 +5,7 @@ output = open("mappool.html", "w")
 output.write("<table>\n<tr>\n<td>Mod</td>\n<td>Title</td>\n<td>Artist</td>\n<td>Difficulty</td>\n<td>Length</td>\n<td>Stars</td>\n</tr>\n")
 
 # Reads in a mappool
-with open("swiss.csv", "r") as openfileobject:
+with open("finals.csv", "r") as openfileobject:
     for line in openfileobject:
         # Splits information from Swiss maps and presents as HTML
         split = line.split(",")
